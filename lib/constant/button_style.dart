@@ -1,0 +1,3 @@
+enum VButtonStyle {
+  filled, outlined
+}
